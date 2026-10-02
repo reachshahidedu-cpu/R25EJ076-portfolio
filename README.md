@@ -1,1 +1,1 @@
-# R25EJ076-portfolio
+Hi, I’m Mohammed Shahid Hussain, a B.Tech CSIT student interested in programming and technology. I’m currently learning C, C++, Python, Java, and Git/GitHub while improving my problem-solving skills. This repository is for documenting my coding practice, projects, and learning progress.
